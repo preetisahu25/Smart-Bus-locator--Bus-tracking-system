@@ -23,7 +23,4 @@ npm start
 - Mobile app version
 - Live traffic-based ETA
 - Multiple bus tracking
-- Ticket booking system
-  
-Preeti Sahu  
-GitHub: https://github.com/preetisahu25
+
